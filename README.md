@@ -33,4 +33,4 @@ Visualization:
 from visualization import show_corr
 show_corr()
 
-![Screenshot](https://github.com/MaximF39/covid/blob/master/screenshots/corr.png)
+![](https://github.com/MaximF39/covid/blob/master/screenshots/corr.png)
